@@ -36,4 +36,3 @@ Users should be able to:
 - Semantic HTML5 markup
 - Flexbox
 - CSS Grid
-- **Note: These are just examples. Delete this note and replace the list above with your own choices**
