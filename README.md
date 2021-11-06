@@ -21,13 +21,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](/screenshots\screenshot-desktop.png)
-![](/screenshots\screenshot-mobile.png)
+![screenshot-desktop](https://raw.githubusercontent.com/JMcode11/Stats-preview-card-component/main/screenshots/screenshot-desktop.png)
+![screenshot-mobile](https://raw.githubusercontent.com/JMcode11/Stats-preview-card-component/main/screenshots/screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/JMcode11/Stats-preview-card-component)
+- Live Site URL: [Add live site URL here](https://jmcode11.github.io/Stats-preview-card-component/)
 
 ## My process
 
