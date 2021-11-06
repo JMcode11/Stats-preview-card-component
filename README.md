@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JMcode11/Stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://jmcode11.github.io/Stats-preview-card-component/)
+- Solution URL: [ solution URL here](https://github.com/JMcode11/Stats-preview-card-component)
+- Live Site URL: [ live site URL here](https://jmcode11.github.io/Stats-preview-card-component/)
 
 ## My process
 
