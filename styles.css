@@ -218,7 +218,7 @@ li {
 
   .card-img::after {
     content: "";
-    background: url(images/image-header-mobile.jpg) no-repeat center/cover;
+    background: url(images/image-header-desktop.jpg) no-repeat center/cover;
     background-color: var(--clr-accent);
     mix-blend-mode: multiply;
     opacity: 0.8;
